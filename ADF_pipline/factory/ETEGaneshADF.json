@@ -1,0 +1,9 @@
+{
+	"name": "ETEGaneshADF",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "05951672-82a3-4318-9261-a0a35c6abffb",
+		"tenantId": "8d32bc23-5d84-4840-8697-4566b30d6ee7"
+	}
+}
